@@ -7,6 +7,8 @@
 <div align="center">
     <img src="sources\banner.svg" width="640" height="320" alt="banner">
 </div>
+  
+---
 
 <p>Hey, my name is Norbert and it's a pleasure to have you on my profile. If you decided to stop by, let me tell you a bit about myself.<br>
 I'm a technology enthusiast who enjoys setting new challenges for myself and raising the bar every time. I began my journey in programming in 2019 at the<strong> Lodz University of Technology, majoring in Computer Science with a specialization in Internet Technologies </strong>, which I am a graduate of. During my studies, I developed a passion for designing and developing mobile applications, and I encourage you to check out some of my highlighted projects on my profile.</p>
@@ -19,18 +21,19 @@ I'm a technology enthusiast who enjoys setting new challenges for myself and rai
 
 💞️ I'd like to talk about my interests and hobbies, but it's better not to turn this into my personal blog ???. Tl;dr I'm intrested in everything that's complex enough to bore ordinary people to death. 
 
-<h2>Connect with me</h2>
+<h1>Connect with me</h1>
 <div align="left" style="display:inline;float:left;">
-<a href="https://github.com/xNik3e" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
-</a>
-<a href="mailto:comlokoxd@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="https://discordlookup.com/user/428233609342746634" target="_blank">
-<img src=sources\discord_badge.svg alt=discord/>
+  <a href="https://github.com/xNik3e" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+  </a>
+  <a href="mailto:comlokoxd@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://discordlookup.com/user/428233609342746634" target="_blank">
+    <img src=sources\discord_badge.svg alt=discord/>
+  </a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -66,15 +69,18 @@ I'm a technology enthusiast who enjoys setting new challenges for myself and rai
 
 ---
 
-<h2 align="left">Statistics 📈</h2>
+<h1 align="left">Statistics 📈</h1>
 <p align="center">
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<thead>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=xNik3e&show_icons=true&theme=dracula&title_color=73cce9&text_color=ff6e96&locale=en" ></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=xNik3e&theme=dracula&date_format=j%20M%5B%20Y%5D" /></td>
-</tr>
-</thead>
-</table>
-
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <thead>
+      <tr>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api?username=xNik3e&show_icons=true&theme=dracula&title_color=73cce9&text_color=ff6e96&locale=en">
+        </td>
+        <td>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=xNik3e&theme=dracula&date_format=j%20M%5B%20Y%5D" />
+        </td>
+      </tr>
+    </thead>
+  </table>
 </p>
