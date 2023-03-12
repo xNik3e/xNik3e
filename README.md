@@ -7,11 +7,10 @@
 <div align="center">
     <img src="sources\banner.svg" width="640" height="320" alt="banner">
 </div>
-  
----
 
-<p>Hey, my name is Norbert and it's a pleasure to have you on my profile. If you decided to stop by, let me tell you a bit about myself.<br>
-I'm a technology enthusiast who enjoys setting new challenges for myself and raising the bar every time. I began my journey in programming in 2019 at the<strong> Lodz University of Technology, majoring in Computer Science with a specialization in Internet Technologies </strong>, which I am a graduate of. During my studies, I developed a passion for designing and developing mobile applications, and I encourage you to check out some of my highlighted projects on my profile.</p>
+<h1 align="center">Hey there 👋</h1>
+<p>I'm Norbert and it's a pleasure to have you on my profile. If you decided to stop by, let me tell you a bit about myself.</p>
+<p>I'm a technology enthusiast who enjoys setting new challenges for myself and raising the bar every time. I began my journey in programming in 2019 at the<strong> Lodz University of Technology, majoring in Computer Science with a specialization in Internet Technologies </strong>, which I am a graduate of. During my studies, I developed a passion for designing and developing mobile applications, and I encourage you to check out some of my highlighted projects on my profile.</p>
 
 📱 I'm interested in **Mobile development**.
 
@@ -19,7 +18,15 @@ I'm a technology enthusiast who enjoys setting new challenges for myself and rai
 
 🤝 I want to develop myself and broaden my horizons by taking up a job.
 
-💞️ I'd like to talk about my interests and hobbies, but it's better not to turn this into my personal blog ???. Tl;dr I'm intrested in everything that's complex enough to bore ordinary people to death. 
+💞️ I'd like to talk about my interests and hobbies, but it's better not to turn this into my personal blog 😅. Tl;dr I'm intrested in everything that's complex enough to bore ordinary people to death. 
+
+<h1>Check out my favourite projects!</h1>
+
+- [OnePlus's Calculator Clone](https://github.com/xNik3e/calculator-clone-school-project)
+- [OnePlu's Weather Clone](https://github.com/xNik3e/weather-app-school-project)
+- [TODO List App](https://github.com/xNik3e/ToDoListApp)
+- [UntitledDiscordBot](https://github.com/xNik3e/UntitledDiscordBot)
+- [UntitledDiscordBot Spring](https://github.com/xNik3e/UDB-Spring)
 
 <h1>Connect with me</h1>
 <div align="left" style="display:inline;float:left;">
@@ -66,8 +73,6 @@ I'm a technology enthusiast who enjoys setting new challenges for myself and rai
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
 </p>
-
----
 
 <h1 align="left">Statistics 📈</h1>
 <p align="center">
