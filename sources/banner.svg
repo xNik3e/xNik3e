@@ -99,7 +99,8 @@
                     <h1>Hello, I'm Norbert</h1>
                     <h2>Welcome to my profile</h2>
                     <p>
-                    <a href="">Link 1</a> | <a href="">Link 2</a>
+                    <!-- <a href="">Link 1</a> | <a href="">Link 2</a> -->
+					
                     </p>
                 </div>
 			</div>
