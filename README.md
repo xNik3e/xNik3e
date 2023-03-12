@@ -10,7 +10,7 @@
 
 <h1 align="center">Hey there 👋</h1>
 <p>I'm Norbert and it's a pleasure to have you on my profile. If you decided to stop by, let me tell you a bit about myself.</p>
-<p>I'm a technology enthusiast who enjoys setting new challenges for myself and raising the bar every time. I began my journey in programming in 2019 at the<strong> Lodz University of Technology, majoring in Computer Science with a specialization in Internet Technologies </strong>, which I am a graduate of. During my studies, I developed a passion for designing and developing mobile applications, and I encourage you to check out some of my highlighted projects on my profile.</p>
+<p>I'm a technology enthusiast who enjoys setting new challenges for myself and raising the bar every time. I began my journey in programming in 2019 at the<strong> Lodz University of Technology, majoring in Computer Science with a specialization in Internet Technologies</strong>, which I am a graduate of. <br>During my studies, I developed a passion for designing and developing mobile applications, and I encourage you to check out some of my highlighted projects on my profile.</p>
 
 📱 I'm interested in **Mobile development**.
 
