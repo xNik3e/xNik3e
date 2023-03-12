@@ -1,0 +1,107 @@
+<svg fill="none" viewBox="0 0 640 320" width="640" height="320" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+				@keyframes gradientBackground {
+					0% {
+						background-position: 0% 50%;
+					}
+					50% {
+						background-position: 100% 50%;
+					}
+					100% {
+						background-position: 50% 0%;
+					}
+				}
+				@keyframes fadeIn {
+					0% {
+						opacity: 0;
+					}
+					66% {
+						opacity: 0;
+					}
+					100% {
+						opacity: 1;
+					}
+				}
+				.container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 640px;
+					height: 320px;
+					border-radius: 10px;
+					color: white;
+					text-align: center;
+				}
+                .centered{
+                    position: absolute;
+                    width: max-content;
+                    top: 50%;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                }
+				h1 {
+					font-size: 36px;
+					letter-spacing: 5px;
+					text-transform: uppercase;
+					text-shadow:
+						0 1px 0 #000000,
+						0 2px 0 #000000,
+						0 3px 0 #000000,
+						0 4px 0 #000000,
+						0 12px 5px rgba(0, 0, 0, 0.1);
+				}
+                h2{
+                    font-size: 28px;
+					letter-spacing: 5px;
+					text-transform: uppercase;
+                    background-image: linear-gradient(to left, #ffffff, #fed3c0 ,#c99097, #3d3b53, #1f273e);
+                    -webkit-background-clip: text; 
+                    background-clip: text;
+                    color: transparent;
+                    text-shadow:
+						0 1px 0 #00000000,
+						0 2px 0 #00000000,
+						0 3px 0 #00000000,
+						0 4px 0 #00000000,
+						0 12px 5px rgba(0, 0, 0, 0.1);
+                    background-size: 450%;
+                    background-position: -100%;
+                    animation: gradientBackground 5s infinite alternate-reverse;
+                }
+				p {
+					font-size: 16px;
+                    
+					text-shadow: 0 1px 0 #efefef;
+					animation: 3s ease 0s normal forwards 1 fadeIn;
+				}
+                img{
+                    position: relative;
+                }
+			</style>
+			<div class="container">
+                <img src="https://lh3.googleusercontent.com/fLT2Mk-WsYvQLuphh3zJbRMHMWgkaqrSmBpCUlRvjSP3DT7HTUrtMcQHCdp9rQTOys72i0XPoAzLrxQ56_R-5W9RNx8KhH9RfRs8T_N1vuWdK6DMG4wSSshbLMiDKUFtDIhcZVFOZYDTKYVpyLpmOLP-_KA6Udj_p57aoT9asLXFL6KOyygegV84hZkzKztrFbfQYaAMd-rWFKjdQXxgj8qtEEipXapfSVPIZpnyMV_KBX8JbD7jJFNLxKPvORnZYOk-CpMbYFzSFkL-xLArXmP8akW7eReCDSjS0S9Kz7cUb9R86TC48kgUYgBX7FoLQIyfbIjjoZ0dip2Fdv6SBJiozCFw5GGtzI2WeDffoI0hUq_vVvg0gc9vmgtOyqQuHbiEh3TByJQglsPi0s-RrHJyb5NQ8HmNwIWlcCDqTkSswvyDf20o6iOqdiVA7i0m59Fbfkw3CbkPBQctbdS5gizZPwQZ_X4bAepOXZIdDgIZDHOsxx1x6YTD30YD9NkrVn-AQUIEfdN-KBzAcY_4mQB7UHvquOtY7qfjBSRJRPa_9Jh9enWr7JXDfnX0G0271aeNrfszf6iWWXpSeErlxdx16fR0p0LEDPszaM04hBsUi9FqKwjHs7_4t9fT6JNjtzAeQ7e3Z-qhAeKiiy-kB-tYMFO4ZrHgCDiu6z-9pxfh3ejwrn8pWz2zKIeL-KWGxqMUT4fa2n3pXgdhwyP1pyd1QQYZNol-hJojV56WRuvw49IfyFrR3fM6ZYhe1cxAVs9U2KaBAiPE1U06lMEQbE_GIq7Lu3SEmaGW1hNEbVxV-Vp91wHefqlwJ2Bh6_S9JWZA--LxHcXf_em7kdvVxOp8HKF_nPCp1SMYL0wzKyUvxFVEUwwf8MnwSVuWMLZ0LIBEv1XMo5DpuisoHDimu4A2AikkXs6yb1eyzM6ep12KU-47TDtSp78AfU9EgluIco7p1wpJYNbTALnJCiwBltq2_YiZ7AsGuimzlK7HnHAkJ8JuVZ9LzwQ=w640-h320-no?authuser=0" alt="Logo" width="640" height="320" />
+                <div class="centered">
+                    <h1>Hello, I'm Norbert</h1>
+                    <h2>Welcome to my profile</h2>
+                    <p>
+                    <a href="">Link 1</a> | <a href="">Link 2</a>
+                    </p>
+                </div>
+			</div>
+		</div>
+    </foreignObject>
+</svg>
