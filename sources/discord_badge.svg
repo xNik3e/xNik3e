@@ -1,5 +1,5 @@
-<svg fill="none" viewBox="0 0 640 320" width="640" height="320" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
+<svg fill="none" viewBox="0 0 120 28" width="120" height="28" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="120" height="28">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
 				p{
@@ -12,11 +12,12 @@
 					padding: 0 5px 0 5px;
 				}
 			</style>
-			<table align="center" border="0" cellpadding="0" cellspacing="0" height="28">
+			<table border="0" cellpadding="0" cellspacing="0" height="28">
 				<thead>
 				<tr>
 					<td bgcolor="white">
-					<img src="https://cdn.discordapp.com/avatars/428233609342746634/6056e32a17c7c070ec8df7d585cd6eda.png?size=28" alt="Discord profile"/>
+						<a href="https://discordlookup.com/user/428233609342746634" target="_blank"><img src="data:image/png;base64,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" 
+					alt="Discord profile"/></a>
 					</td>
 					<td bgcolor="#a31723">
 						<p>ηιкυś#0666</p>
