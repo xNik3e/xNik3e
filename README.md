@@ -35,7 +35,7 @@
   </a>
   <a href="mailto:comlokoxd@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <a href="https://discordlookup.com/user/428233609342746634" target="_blank">
+  <a href="discord://-/users/1074787919035912322" target="_blank">
     <img src=sources\discord_badge.svg alt=discord/>
   </a>
 </div>
