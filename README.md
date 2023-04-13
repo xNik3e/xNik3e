@@ -73,19 +73,3 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
 </p>
-
-<h1 align="left">Statistics 📈</h1>
-<p align="center">
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <thead>
-      <tr>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=xNik3e&show_icons=true&theme=dracula&title_color=73cce9&text_color=ff6e96&locale=en">
-        </td>
-        <td>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=xNik3e&theme=dracula&date_format=j%20M%5B%20Y%5D" />
-        </td>
-      </tr>
-    </thead>
-  </table>
-</p>
