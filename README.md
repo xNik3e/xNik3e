@@ -22,11 +22,12 @@
 
 <h1>Check out my favourite projects!</h1>
 
+- [UntitledDiscordBot](https://github.com/xNik3e/UntitledDiscordBot)
+- [UntitledDiscordBot Spring](https://github.com/xNik3e/UDB-Spring)
 - [OnePlus's Calculator Clone](https://github.com/xNik3e/calculator-clone-school-project)
 - [OnePlus's Weather Clone](https://github.com/xNik3e/weather-app-school-project)
 - [TODO List App](https://github.com/xNik3e/ToDoListApp)
-- [UntitledDiscordBot](https://github.com/xNik3e/UntitledDiscordBot)
-- [UntitledDiscordBot Spring](https://github.com/xNik3e/UDB-Spring)
+
 
 <h1>Connect with me</h1>
 <div align="left" style="display:inline;float:left;">
