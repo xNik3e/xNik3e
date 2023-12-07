@@ -16,7 +16,7 @@
 
 📖 I'm currently learning **Flutter and Dart**.
 
-🤝 I want to develop myself and broaden my horizons by taking up a job.
+🤝 I am currently working as a Java/Android Developer at JSW IT Systems.
 
 💞️ I'd like to talk about my interests and hobbies, but it's better not to turn this into my personal blog 😅. Tl;dr I'm intrested in everything that's complex enough to bore ordinary people to death. 
 
@@ -34,7 +34,7 @@
   <a href="https://github.com/xNik3e" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
   </a>
-  <a href="mailto:comlokoxd@gmail.com">
+  <a href="mailto:norbertnielaba@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <a href="https://discordlookup.com/user/428233609342746634" target="_blank">
     <img src=sources\discord_badge.svg alt=discord/>
